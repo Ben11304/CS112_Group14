@@ -1,0 +1,5 @@
+few-shot learning giúp huấn luyện mô hình để thực hiện nhiệm vụ cụ thể mà không tinh chỉnh riêng cho từng nhiệm vụ. Thay vì tạo một bản sao mới của mô hình cho mỗi nhiệm vụ, ta chỉ cần cung cấp một số câu hỏi vs câu trả lời mẫu làm prompt để hướng dẫn mô hình thực hiện mà không cần huấn luyện riêng trên tập dữ liệu lớn.
+Drawbacks:
+-rationale-augmented training and
+finetuning method:tốn chi phí để tạo những rationales chất lượng cao 
+ few-shot prompting:với những task cần khả năng suy luận cao thì chất lượng kem
